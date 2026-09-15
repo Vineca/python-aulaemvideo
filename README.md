@@ -1,2 +1,4 @@
-# python-aulaemvideo
-1repositorio versionado curso de git-github
+# python aula em video - Guanabara
+1 repositorio versionado curso de git-github
+
+Repositorio criado durante curso git-github
